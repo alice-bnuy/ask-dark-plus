@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
-  "name": "Zed Dark+",
+  "name": "ASK Dark+",
   "author": "Alice dos Santos <QdmyEep2DQMA5f@gmail.com>",
   "themes": [
     {
-      "name": "Zed Dark+",
+      "name": "ASK Dark+",
       "appearance": "dark",
       "style": {
         "border": "#2f323bff",
