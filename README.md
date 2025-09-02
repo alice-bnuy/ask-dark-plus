@@ -5,7 +5,7 @@ A Dark+ inspired theme for the Zed code editor, providing a consistent dark inte
 ## Features
 
 - Inspired by the popular Dark+ theme
-- Contrast enhanced color palette for readability and comfort
+- Color palette optimized for readability and comfort
 - Consistent syntax highlighting for various languages
 - Easy to install and use in Zed
 
